@@ -4,7 +4,7 @@
 ## About The Project
 This is the source code for the paper "Modular and Scalable IoT Solution for Classroom Air Quality Monitoring" submitted to [ICISN 2025](https://icisn.com/).
 
-![Overall Architecture](Img/overall.pdf){width=100% height=400}
+![Overall Architecture](Img/overall.pdf){width=500px}
 ### Project Structure
     ├── Sensor       # Description and source code for IoT sensor 
     ├── IoT-Platform # Information about our cloud server               
