@@ -1,8 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## IoT Air Quality Monitoring Sensor
-![Overview](Img/design.pdf)
-![Case Design](Img/top.jpg)
-![Hardware](Img/actual.jpg)
+![Overview](../Img/design.pdf)
+![Case Design](../Img/top.jpg)
+![Hardware](../Img/actual.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
